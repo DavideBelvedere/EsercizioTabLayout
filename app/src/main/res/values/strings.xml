@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Advanced_Tab_Layout</string>
+    <string name="tab_1">Image View</string>
+    <string name="tab_2">Contact List</string>
+    <string name="tab_3">Email</string>
+    <string name="add">Aggiungi</string>
+    <string name="nome">Nome:</string>
+    <string name="tel">Telefono:</string>
+    <string name="button">Salva</string>
+    <string name="subject">Oggetto</string>
+    <string name="to">Destinatario</string>
+    <string name="message">Messaggio</string>
+    <string name="addFavourite">Setta come preferito</string>
+    <string name="send">Invia</string>
+</resources>
